@@ -4,4 +4,4 @@
 - editeur de tag
 
 
-POUR PLUS D'INFORMATIONS? VEUILLEZ CONSULTEZ : https://myinfinityapp.wordpress.com/module/.
+POUR PLUS D'INFORMATIONS, VEUILLEZ CONSULTEZ : https://myinfinityapp.wordpress.com/module/.
